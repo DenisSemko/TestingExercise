@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=860aeabb_002D1051_002D4eb0_002D8a95_002D423810805f5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAll_ReturnsListOfBooks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9F9E0E5D-1DBE-4012-9D60-48A4DD0A278A::net6.0::TestProject1.BookTests.GetAll_ReturnsListOfBooks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9F9E0E5D-1DBE-4012-9D60-48A4DD0A278A::net6.0::TestProject1.BookTests.GetById_ReturnsBook&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9F9E0E5D-1DBE-4012-9D60-48A4DD0A278A::net6.0::TestProject1.BookTests.AddBook_ReturnsValidationException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9F9E0E5D-1DBE-4012-9D60-48A4DD0A278A::net6.0::TestProject1.BookTests.AddBook_ReturnsOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9F9E0E5D-1DBE-4012-9D60-48A4DD0A278A::net6.0::TestProject1.BookTests.AddBook_ReturnsGuid&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

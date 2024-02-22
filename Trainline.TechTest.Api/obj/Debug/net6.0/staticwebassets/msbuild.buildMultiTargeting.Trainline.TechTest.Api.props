@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Trainline.TechTest.Api.props" />
+</Project>
